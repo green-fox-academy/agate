@@ -1,1 +1,3 @@
-console.log('Jerry');
+function printer(name) {
+    console.log(name);
+}
