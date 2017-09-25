@@ -1,1 +1,3 @@
-console.log('Jerry');
+function greet(){
+    console.log("Greetings!");
+}
