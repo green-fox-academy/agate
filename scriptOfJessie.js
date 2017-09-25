@@ -1,3 +1,3 @@
-function cheer(){
-    console.log("AGATE~~!!");
+function cheer(parameter){
+    console.log(parameter);
 }
