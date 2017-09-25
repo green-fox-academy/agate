@@ -1,4 +1,7 @@
-function greet(para1, para2){
-    console.log("Greetings!");
-    console.log('para1' + para1 + 'para2' +para2);
+
+function greet(paras){
+    console.log("Greetings " + paras + "!");
 }
+
+greet("leo");
+

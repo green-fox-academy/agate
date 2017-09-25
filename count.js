@@ -1,8 +1,8 @@
 var age;
-function modifyCount (age,month) {
+function modifyCount (age,year) {
     console.log("My age is " + age);
-    console.log("I was born in " + month);
+    console.log("I was born in " + year);
 
 }
 
-modifyCount(18);
+modifyCount(18, 2000);
