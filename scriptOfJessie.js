@@ -1,6 +1,6 @@
-function cheer(parameter1, parameter2){
-    console.log(parameter1);
-    console.log(parameter2);
+
+function cheer(parameter){
+    console.log('Cheer for the' + parameter);
 }
 
 cheer("javascript","jsa");
