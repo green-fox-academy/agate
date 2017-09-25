@@ -1,6 +1,7 @@
-function count () {
-  console.log("My age is 18");
+var age;
+function modifyCount (age) {
+  console.log("My age is " + age);
 
 }
 
-count();
+modifyCount(18);
