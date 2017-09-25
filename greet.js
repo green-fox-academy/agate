@@ -1,3 +1,3 @@
-function printer(name) {
-    console.log(name);
+function greet(){
+    console.log("Greetings!");
 }
